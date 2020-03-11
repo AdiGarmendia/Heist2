@@ -1,0 +1,11 @@
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\bin\Debug\netcoreapp3.1\Heist2ElectricBogaloo.exe
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\bin\Debug\netcoreapp3.1\Heist2ElectricBogaloo.deps.json
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\bin\Debug\netcoreapp3.1\Heist2ElectricBogaloo.runtimeconfig.json
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\bin\Debug\netcoreapp3.1\Heist2ElectricBogaloo.runtimeconfig.dev.json
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\bin\Debug\netcoreapp3.1\Heist2ElectricBogaloo.dll
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\bin\Debug\netcoreapp3.1\Heist2ElectricBogaloo.pdb
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\obj\Debug\netcoreapp3.1\Heist2ElectricBogaloo.csprojAssemblyReference.cache
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\obj\Debug\netcoreapp3.1\Heist2ElectricBogaloo.AssemblyInfoInputs.cache
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\obj\Debug\netcoreapp3.1\Heist2ElectricBogaloo.AssemblyInfo.cs
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\obj\Debug\netcoreapp3.1\Heist2ElectricBogaloo.dll
+C:\Users\Dejim\workspace\csharp\Heist2ElectricBogaloo\obj\Debug\netcoreapp3.1\Heist2ElectricBogaloo.pdb
